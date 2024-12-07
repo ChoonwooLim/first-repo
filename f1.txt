@@ -1,1 +1,1 @@
-void feature();
+bool feature();
