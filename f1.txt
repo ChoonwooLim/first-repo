@@ -1,1 +1,1 @@
-int feature();
+bool feature();
